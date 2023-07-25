@@ -1,2 +1,3 @@
 Hello from Notepad
 Let's see this through!
+Sarah is making a local change without pulling latest changes from remote (task 4)
